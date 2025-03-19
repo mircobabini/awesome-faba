@@ -14,7 +14,7 @@
 Downloadable, installable and online services that provide additional features for Faba and Faba Plus.
 
 - [FabaMore Chrome Extension](https://chromewebstore.google.com/detail/fabamore-do-more-with-you/lceoahoffijefgjgepcnilmdlmjeeidn) e [manuale di utilizzo](https://mircobabini.dev/fabamore-per-faba-e-faba-plus/)
-
+- [FabaMe Sender per Windows](https://github.com/sapycola/Faba-Raccontastorie---FabaMe-Sender) e [manuale di utilizzo](https://github.com/sapycola/Faba-Raccontastorie---FabaMe-Sender/blob/main/manuale.pdf)
 
 ## Repositories
 
