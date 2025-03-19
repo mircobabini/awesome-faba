@@ -28,3 +28,7 @@ Downloadable, installable and online services that provide additional features f
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+## Tech Tips
+
+Faba is derived from Lyrat 4.3. More details about Lyrat 4.3 can be found here: [ESP32-Lyrat 4.3](https://espressif-docs.readthedocs-hosted.com/projects/esp-adf/en/latest/design-guide/dev-boards/board-esp32-lyrat-v4.3.html).
