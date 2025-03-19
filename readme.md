@@ -7,6 +7,7 @@
 
 - [Services](#section)
 - [Repositories](#repositories)
+- [Tech Tips](#tech-tips)
 
 
 ## Services
@@ -24,11 +25,11 @@ Downloadable, installable and online services that provide additional features f
 - [Toolbox for "audio cubes"](https://github.com/oyooyo/audiocube)
 - [FabaMore Chrome Extension](https://github.com/mircobabini/fabamore-chrome-extension/)
 
+## Tech Tips
+
+Faba is derived from Lyrat 4.3. More details about Lyrat 4.3 can be found here: [ESP32-Lyrat 4.3](https://espressif-docs.readthedocs-hosted.com/projects/esp-adf/en/latest/design-guide/dev-boards/board-esp32-lyrat-v4.3.html).
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-## Tech Tips
-
-Faba is derived from Lyrat 4.3. More details about Lyrat 4.3 can be found here: [ESP32-Lyrat 4.3](https://espressif-docs.readthedocs-hosted.com/projects/esp-adf/en/latest/design-guide/dev-boards/board-esp32-lyrat-v4.3.html).
