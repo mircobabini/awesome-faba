@@ -7,6 +7,7 @@
 
 - [Services](#services)
 - [Repositories](#repositories)
+- [Communities](#communities)
 - [Tech Tips](#tech-tips)
 
 
@@ -24,6 +25,11 @@ Downloadable, installable and online services that provide additional features f
 - [Faba Uploader by fr3ns1s](https://github.com/fr3ns1s/faba-uploader)
 - [Toolbox for "audio cubes"](https://github.com/oyooyo/audiocube)
 - [FabaMore Chrome Extension](https://github.com/mircobabini/fabamore-chrome-extension/)
+
+## Communities
+
+- [Telegram - Faba Italia Unofficial](https://t.me/fabaitaliaunofficial)
+- [Facebook - Gli amici di FABA](https://www.facebook.com/groups/4094282994005430)
 
 ## Tech Tips
 
